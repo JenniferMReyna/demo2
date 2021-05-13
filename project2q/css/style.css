@@ -1,5 +1,5 @@
 body {
-    background-color: #eee;
+    background-color: rgb(92, 207, 66);
     color: #839496;
     font-family: sans-serif;
     font-size: 1.1em;
@@ -7,7 +7,7 @@ body {
   }
   .navbar{
       max-height: 50px; 
-      background-color: #ffffff; 
+      background-color: #4181d4; 
       font-size: 15px; 
   }
   
@@ -36,7 +36,7 @@ body {
   /* Media Queries */
   @media (max-width: 991.98px){
   .navbar-expand-lg{
-      background-color: rgb(20, 150, 150);
+      background-color: rgb(8, 8, 8);
   }
   .navbar{
       max-height: none; 
@@ -77,7 +77,7 @@ body {
   .description-header, .imageNav-header {
       padding-top: 15px; 
       padding-left: 4px;
-      color: rgb(20, 150, 150);
+      color: rgb(182, 21, 174);
       font-size: 26px;
       font-weight: bold;
       font-family: Georgia, Times, "Times New Roman", serif;
@@ -118,7 +118,7 @@ body {
   
   
   .active, .imageNav-photo:hover{
-      border-color:rgb(20, 150, 150);
+      border-color:rgb(5, 5, 5);
       border-style: solid; 
   }
   
@@ -126,7 +126,7 @@ body {
       background-color: #505251; 
       border-top-style: solid; 
       border-top-width: 4px; 
-      border-top-color: rgb(20, 150, 150);
+      border-top-color: rgb(6, 12, 12);
       color: white; 
       min-height: 50px; 
       font-family: Arial, Helvetica, sans-serif;
